@@ -1,0 +1,42 @@
+[
+    {
+        "id":1,
+        "name": "Toyota",
+        "price":15000,
+        "year": 2015,
+        "contact":{
+            "dealer": "safi",
+            "number": "111-111-1111"
+        }
+    },
+    {
+        "id":2,
+        "name": "Chevrolet",
+        "price":20000,
+        "year": 2020,
+        "contact":{
+            "dealer": "jane",
+            "number": "444-444-4444"
+        }
+    },
+    {
+        "id":3,
+        "name": "BMW",
+        "price":40000,
+        "year": 2018,
+        "contact":{
+            "dealer": "bob",
+            "number": "333-333-3333"
+        }
+    },
+    {
+        "id":4,
+        "name": "Volvo",
+        "price":30000,
+        "year": 2021,
+        "contact":{
+            "dealer": "fred",
+            "number": "222-222-2222"
+        }
+    }
+]
